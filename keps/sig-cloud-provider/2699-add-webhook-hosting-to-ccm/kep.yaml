@@ -5,7 +5,7 @@ authors:
 owning-sig: sig-cloud-provider
 participating-sigs:
   - sig-storage
-status: withdrawn
+status: implementable
 creation-date: 2021-05-08
 reviewers:
   - "@andrewsykim"
